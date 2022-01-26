@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Testing different request on the student application" skipped="0" tests="4" time="8.91" timestamp="2022-01-25T23:37:20.094Z[Europe/London]"><testcase name="Check if the user can get all student details"/><testcase name="Check if user can create, read, update and delete a record"/></testsuite>
